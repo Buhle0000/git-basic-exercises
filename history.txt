@@ -1,0 +1,362 @@
+    1  ls
+    2  cd level01/
+    3  ls
+    4  gcc last_word.c 
+    5  ./a.out "FOR PONY" |cat -e
+    6  gcc last_word.c 
+    7  ./a.out "FOR PONY" |cat -e
+    8  ls
+    9  gcc repeat_alpha.c 
+   10  ./a.out "abc"
+   11  ./a.out "Alex." | cat -e
+   12  ./a.out "" | cat -e
+   13  ls
+   14  pwd
+   15  sudo apt update
+   16  sudo apt install build-essential
+   17  sudo apt-get install manpages-dev
+   18  gcc --version
+   19  clear
+   20  pwd
+   21  mkdir level01
+   22  cd level01/
+   23  vim last_param.c
+   24  gcc last_param.c
+   25  vim last_param.c
+   26  gcc last_param.c
+   27  ./a.out "Buhle" "Luthuli"
+   28  ls
+   29  rm a.out 
+   30  vim first_param.c
+   31  gcc first_param.c 
+   32  vim first_param.c
+   33  gcc first_param.c 
+   34  ./a.out "Buhle" "Luthuli"
+   35  ls
+   36  vim last_word.c
+   37  ls
+   38  vim repeat_alpha.c
+   39  ls
+   40  vim first_param.c 
+   41  ls
+   42  cd level01/
+   43  ls
+   44  rm a.out 
+   45  cd ..
+   46  ls
+   47  mkdir level02
+   48  cd level02
+   49  ls
+   50  vim alpha_mirrir.c
+   51  ls
+   52  rm alpha_mirrir.c a.out
+   53  ls
+   54  vim add_prime_sum.c
+   55  exit
+   56  cd
+   57  ls
+   58  cd level02
+   59  ls
+   60  vim add_prime_sum.c 
+   61  ls
+   62  mkdir rpn_calc
+   63  cd rpn_calc/
+   64  vim check.c
+   65  vim is.c
+   66  vim mzin.c
+   67  ls
+   68  mv mzin.c main.c
+   69  cd main.c
+   70  vim main.c 
+   71  cd
+   72  ls
+   73  cd level0
+   74  cd level01
+   75  ls
+   76  gcc first_param.c 
+   77  ./a.out "Tarren" "Smith"
+   78  cd 
+   79  ls
+   80  cd level02
+   81  ls
+   82  vim alpha_mirror.c 
+   83  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   84  ./a.out "Tarren"
+   85  ./a.out "abcd"
+   86  vim alpha_mirror.c 
+   87  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   88  vim alpha_mirror.c 
+   89  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   90  CD
+   91  ls
+   92  vim food_fill.c
+   93  ls
+   94  cd rpn_calc/
+   95  vim main.c
+   96  ls
+   97  ls-la
+   98  la
+   99  cd
+  100  cd level03
+  101  ls
+  102  vim brainfuck.c
+  103  cd
+  104  ls
+  105  cd level04
+  106  mv level04
+  107  mv --help
+  108  cd
+  109  ls
+  110  cd level01
+  111  ls
+  112  vim first_param.c 
+  113  pwd
+  114  who
+  115  finger root
+  116  man finger
+  117  ls-a
+  118  ls-la
+  119  man ls
+  120  pwd
+  121  ls
+  122  cd level02
+  123  pwd
+  124  ls
+  125  cat alpha_mirror.c 
+  126  ls
+  127  pwd
+  128  ls
+  129  vim max.c
+  130  pwd
+  131  cd
+  132  ls -la
+  133  ls
+  134  cd level03
+  135  ls -a
+  136  ls
+  137  cd
+  138  pwd
+  139  ls
+  140  cd level01
+  141  ls
+  142  gcc first_param.c
+  143  ./first_param.c
+  144  ls
+  145  cd pwd
+  146  pwd
+  147  man psswd
+  148  man vim
+  149  ls -la
+  150  man ls
+  151  la -la -a
+  152  ls -la -c
+  153  la -c
+  154  ls
+  155  cd level01
+  156  ls
+  157  gcc last_param.c 
+  158  a/.out "Buhle Luthuli"
+  159  a/.out
+  160  /.out
+  161  a.out
+  162  ls
+  163  pwd
+  164  cd Level04
+  165  ls
+  166  ls-la
+  167  la
+  168  ls-a
+  169  man ls
+  170  ls--a
+  171  ls-la
+  172  la
+  173  ls-la
+  174  pwd
+  175  man ls
+  176  ls
+  177  cd
+  178  ls
+  179  man cd
+  180  cd level03
+  181  ls
+  182  cd
+  183  ls
+  184  cd level02
+  185  ls
+  186  vim alpha_mirror.c 
+  187  ls
+  188  ls /data
+  189  ls /etc/perl
+  190  ls /data
+  191  ls/data
+  192  ls / 
+  193  pwd
+  194  mkdir Learning_Unix
+  195  ls
+  196  cd Learning_Unix/
+  197  mkdir Outer_directory
+  198  cd Outer_directory/
+  199  mkdir Inner_directory
+  200  cd Inner_directory/
+  201  cd /
+  202  cd home
+  203  cd ubuntu
+  204  pwd
+  205  ls
+  206  cd buhleluthuli/
+  207  ls
+  208  cd Learning_Unix/
+  209  cd ..
+  210  cd ../..
+  211  cd /tmp
+  212  cd /
+  213  ls -l /home
+  214  ls -l
+  215  ls -R
+  216  pwd
+  217  ls
+  218  cd Learning_Unix/
+  219  ls
+  220  cd Outer_directory/
+  221  cd Inner_directory/
+  222  cd
+  223  cd Learning_Unix/
+  224  ls
+  225  cd Outer_directory/
+  226  rmdir
+  227  rmdir Inner_directory/
+  228  cd ..
+  229  rmdir Outer_directory/
+  230  ls
+  231  pwd
+  232  touch heaven.txt
+  233  touch earth.txt
+  234  ls
+  235  mkdir Temp
+  236  ls
+  237  mv earth.txt Temp/
+  238  ls
+  239  mv heaven.txt  Temp/
+  240  ls
+  241  ls Temp/
+  242  git status
+  243  cd
+  244  ls
+  245  git status
+  246  git config
+  247  sudo apt install git-all
+  248  man sudo
+  249  man pswd
+  250  sudo apt update
+  251  ls
+  252  rm a-repo-to-clone/
+  253  rm git-basic-exercises/
+  254  rmdir git-basic-exercises/
+  255  cd git-basic-exercises/
+  256  ls
+  257  rm milkshakes.md 
+  258  ls
+  259  rm ignore-me.db 
+  260  rm README.md 
+  261  rmdir large-directory-that-should-be-local-only/
+  262  cd large-directory-that-should-be-local-only/
+  263  ls
+  264  rm readme.md 
+  265  ls
+  266  cd ..
+  267  ls
+  268  rmdir large-directory-that-should-be-local-only/
+  269  ls
+  270  cd ..
+  271  ls
+  272  cd a-repo-to-clone/
+  273  ls
+  274  rm README.md 
+  275  ls
+  276  cd ..
+  277  rmdir a-repo-to-clone/
+  278  cd a-repo-to-clone/
+  279  ls
+  280  ls -a
+  281  rm .gitignore
+  282  rm .git/
+  283  cd .git/
+  284  ls
+  285  cd
+  286  ls
+  287  rm -rf git-basic-exercises/
+  288  ls
+  289  rm -rf a-repo-to-clone/
+  290  ls
+  291  rm -rf this-will-be-another-repo/
+  292  ls
+  293  mkdir git-basic-exercises
+  294  cd git-basic-exercises/
+  295  ls -a
+  296  cd ..
+  297  ls
+  298  cd Learning_Unix/
+  299  ls
+  300  cd
+  301  rm -rf Learning_Unix/
+  302  ls
+  303  rm -rf
+  304  rm -rf git-basic-exercises/
+  305  ls
+  306  mkdir git-basic-exercises
+  307  cd git-basic-exercises/
+  308  ls
+  309  ls -a
+  310  cd ./
+  311  ls
+  312  git init
+  313  ls -a
+  314  git status
+  315  touch README.md
+  316  ls -a
+  317  git status
+  318  git log
+  319  git add
+  320  git add README.md 
+  321  git status
+  322  git rm --cached README.md 
+  323  ls
+  324  git add README.md 
+  325  git status
+  326  git commit -m "initial commit"
+  327  git log
+  328  q
+  329  ls
+  330  nano README.md 
+  331  cat README.md 
+  332  git status
+  333  git add README.md 
+  334  git commit -m "second commit"
+  335  ls
+  336  nano README.md 
+  337  cat README.md 
+  338  git status
+  339  git add README.md 
+  340  git commit -m "third commit"
+  341  git log
+  342  git checkout 7fcdfee6a58c1e9c76e1b149045c73ce2c2f8821
+  343  cat README.md 
+  344  git checkout master 
+  345  cat README.md 
+  346  git branch
+  347  git checkout -b milkshake-flavours
+  348  git branch
+  349  git checkout master 
+  350  git branch
+  351  git checkout milkshake-flavours 
+  352  nano milkshakes.md
+  353  git status
+  354  git add milkshakes.md 
+  355  git commit -m "added initial flavours"
+  356  git checkout master 
+  357  git branch
+  358  git checkout -b history
+  359  git branch
+  360  git checkout history 
+  361  git log
+  362  history > history.txt
