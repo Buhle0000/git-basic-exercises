@@ -1,0 +1,791 @@
+    1  ls
+    2  cd level01/
+    3  ls
+    4  gcc last_word.c 
+    5  ./a.out "FOR PONY" |cat -e
+    6  gcc last_word.c 
+    7  ./a.out "FOR PONY" |cat -e
+    8  ls
+    9  gcc repeat_alpha.c 
+   10  ./a.out "abc"
+   11  ./a.out "Alex." | cat -e
+   12  ./a.out "" | cat -e
+   13  ls
+   14  pwd
+   15  sudo apt update
+   16  sudo apt install build-essential
+   17  sudo apt-get install manpages-dev
+   18  gcc --version
+   19  clear
+   20  pwd
+   21  mkdir level01
+   22  cd level01/
+   23  vim last_param.c
+   24  gcc last_param.c
+   25  vim last_param.c
+   26  gcc last_param.c
+   27  ./a.out "Buhle" "Luthuli"
+   28  ls
+   29  rm a.out 
+   30  vim first_param.c
+   31  gcc first_param.c 
+   32  vim first_param.c
+   33  gcc first_param.c 
+   34  ./a.out "Buhle" "Luthuli"
+   35  ls
+   36  vim last_word.c
+   37  ls
+   38  vim repeat_alpha.c
+   39  ls
+   40  vim first_param.c 
+   41  ls
+   42  cd level01/
+   43  ls
+   44  rm a.out 
+   45  cd ..
+   46  ls
+   47  mkdir level02
+   48  cd level02
+   49  ls
+   50  vim alpha_mirrir.c
+   51  ls
+   52  rm alpha_mirrir.c a.out
+   53  ls
+   54  vim add_prime_sum.c
+   55  exit
+   56  cd
+   57  ls
+   58  cd level02
+   59  ls
+   60  vim add_prime_sum.c 
+   61  ls
+   62  mkdir rpn_calc
+   63  cd rpn_calc/
+   64  vim check.c
+   65  vim is.c
+   66  vim mzin.c
+   67  ls
+   68  mv mzin.c main.c
+   69  cd main.c
+   70  vim main.c 
+   71  cd
+   72  ls
+   73  cd level0
+   74  cd level01
+   75  ls
+   76  gcc first_param.c 
+   77  ./a.out "Tarren" "Smith"
+   78  cd 
+   79  ls
+   80  cd level02
+   81  ls
+   82  vim alpha_mirror.c 
+   83  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   84  ./a.out "Tarren"
+   85  ./a.out "abcd"
+   86  vim alpha_mirror.c 
+   87  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   88  vim alpha_mirror.c 
+   89  gcc -Wall -Werror -Wextra alpha_mirror.c 
+   90  CD
+   91  ls
+   92  vim food_fill.c
+   93  ls
+   94  cd rpn_calc/
+   95  vim main.c
+   96  ls
+   97  ls-la
+   98  la
+   99  cd
+  100  cd level03
+  101  ls
+  102  vim brainfuck.c
+  103  cd
+  104  ls
+  105  cd level04
+  106  mv level04
+  107  mv --help
+  108  cd
+  109  ls
+  110  cd level01
+  111  ls
+  112  vim first_param.c 
+  113  pwd
+  114  who
+  115  finger root
+  116  man finger
+  117  ls-a
+  118  ls-la
+  119  man ls
+  120  pwd
+  121  ls
+  122  cd level02
+  123  pwd
+  124  ls
+  125  cat alpha_mirror.c 
+  126  ls
+  127  pwd
+  128  ls
+  129  vim max.c
+  130  pwd
+  131  cd
+  132  ls -la
+  133  ls
+  134  cd level03
+  135  ls -a
+  136  ls
+  137  cd
+  138  pwd
+  139  ls
+  140  cd level01
+  141  ls
+  142  gcc first_param.c
+  143  ./first_param.c
+  144  ls
+  145  cd pwd
+  146  pwd
+  147  man psswd
+  148  man vim
+  149  ls -la
+  150  man ls
+  151  la -la -a
+  152  ls -la -c
+  153  la -c
+  154  ls
+  155  cd level01
+  156  ls
+  157  gcc last_param.c 
+  158  a/.out "Buhle Luthuli"
+  159  a/.out
+  160  /.out
+  161  a.out
+  162  ls
+  163  pwd
+  164  cd Level04
+  165  ls
+  166  ls-la
+  167  la
+  168  ls-a
+  169  man ls
+  170  ls--a
+  171  ls-la
+  172  la
+  173  ls-la
+  174  pwd
+  175  man ls
+  176  ls
+  177  cd
+  178  ls
+  179  man cd
+  180  cd level03
+  181  ls
+  182  cd
+  183  ls
+  184  cd level02
+  185  ls
+  186  vim alpha_mirror.c 
+  187  ls
+  188  ls /data
+  189  ls /etc/perl
+  190  ls /data
+  191  ls/data
+  192  ls / 
+  193  pwd
+  194  mkdir Learning_Unix
+  195  ls
+  196  cd Learning_Unix/
+  197  mkdir Outer_directory
+  198  cd Outer_directory/
+  199  mkdir Inner_directory
+  200  cd Inner_directory/
+  201  cd /
+  202  cd home
+  203  cd ubuntu
+  204  pwd
+  205  ls
+  206  cd buhleluthuli/
+  207  ls
+  208  cd Learning_Unix/
+  209  cd ..
+  210  cd ../..
+  211  cd /tmp
+  212  cd /
+  213  ls -l /home
+  214  ls -l
+  215  ls -R
+  216  pwd
+  217  ls
+  218  cd Learning_Unix/
+  219  ls
+  220  cd Outer_directory/
+  221  cd Inner_directory/
+  222  cd
+  223  cd Learning_Unix/
+  224  ls
+  225  cd Outer_directory/
+  226  rmdir
+  227  rmdir Inner_directory/
+  228  cd ..
+  229  rmdir Outer_directory/
+  230  ls
+  231  pwd
+  232  touch heaven.txt
+  233  touch earth.txt
+  234  ls
+  235  mkdir Temp
+  236  ls
+  237  mv earth.txt Temp/
+  238  ls
+  239  mv heaven.txt  Temp/
+  240  ls
+  241  ls Temp/
+  242  git status
+  243  cd
+  244  ls
+  245  git status
+  246  git config
+  247  sudo apt install git-all
+  248  man sudo
+  249  man pswd
+  250  sudo apt update
+  251  ls
+  252  ls
+  253  rm a-repo-to-clone/
+  254  rm git-basic-exercises/
+  255  rmdir git-basic-exercises/
+  256  cd git-basic-exercises/
+  257  ls
+  258  rm milkshakes.md 
+  259  ls
+  260  rm ignore-me.db 
+  261  rm README.md 
+  262  rmdir large-directory-that-should-be-local-only/
+  263  cd large-directory-that-should-be-local-only/
+  264  ls
+  265  rm readme.md 
+  266  ls
+  267  cd ..
+  268  ls
+  269  rmdir large-directory-that-should-be-local-only/
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd a-repo-to-clone/
+  274  ls
+  275  rm README.md 
+  276  ls
+  277  cd ..
+  278  rmdir a-repo-to-clone/
+  279  cd a-repo-to-clone/
+  280  ls
+  281  ls -a
+  282  rm .gitignore
+  283  rm .git/
+  284  cd .git/
+  285  ls
+  286  cd
+  287  ls
+  288  rm -rf git-basic-exercises/
+  289  ls
+  290  rm -rf a-repo-to-clone/
+  291  ls
+  292  rm -rf this-will-be-another-repo/
+  293  ls
+  294  mkdir git-basic-exercises
+  295  cd git-basic-exercises/
+  296  ls -a
+  297  cd ..
+  298  ls
+  299  cd Learning_Unix/
+  300  ls
+  301  cd
+  302  rm -rf Learning_Unix/
+  303  ls
+  304  rm -rf
+  305  rm -rf git-basic-exercises/
+  306  ls
+  307  mkdir git-basic-exercises
+  308  cd git-basic-exercises/
+  309  ls
+  310  ls -a
+  311  cd ./
+  312  ls
+  313  git init
+  314  ls -a
+  315  git status
+  316  touch README.md
+  317  ls -a
+  318  git status
+  319  git log
+  320  git add
+  321  git add README.md 
+  322  git status
+  323  git rm --cached README.md 
+  324  ls
+  325  git add README.md 
+  326  git status
+  327  git commit -m "initial commit"
+  328  git log
+  329  q
+  330  ls
+  331  nano README.md 
+  332  cat README.md 
+  333  git status
+  334  git add README.md 
+  335  git commit -m "second commit"
+  336  ls
+  337  nano README.md 
+  338  cat README.md 
+  339  git status
+  340  git add README.md 
+  341  git commit -m "third commit"
+  342  git log
+  343  git checkout 7fcdfee6a58c1e9c76e1b149045c73ce2c2f8821
+  344  cat README.md 
+  345  git checkout master 
+  346  cat README.md 
+  347  git branch
+  348  git checkout -b milkshake-flavours
+  349  git branch
+  350  git checkout master 
+  351  git branch
+  352  git checkout milkshake-flavours 
+  353  nano milkshakes.md
+  354  git status
+  355  git add milkshakes.md 
+  356  git commit -m "added initial flavours"
+  357  git checkout master 
+  358  git branch
+  359  git checkout -b history
+  360  git branch
+  361  git checkout history 
+  362  git log
+  363  history > history.txt
+  364  ls
+  365  git status
+  366  git add history.txt 
+  367  git commit -m "added history"
+  368  git log
+  369  git checkout milkshake-flavours 
+  370  git log
+  371  ls
+  372  nano milkshakes.md 
+  373  cat milkshakes.md 
+  374  git add milkshakes.md 
+  375  git commit -m "random readme changes"
+  376  git checkout history 
+  377  cat README.md 
+  378  git branch
+  379  rm README.md 
+  380  echo "booya" > README.md
+  381  ls
+  382  git add README.md 
+  383  git commit -m "rewrote readme"
+  384  git checkout master
+  385  ls
+  386  git log
+  387  git checkout milkshake-flavours 
+  388  ls
+  389  git log
+  390  git checkout  history
+  391  ls
+  392  git log
+  393  git checkout master 
+  394  git merge milkshake-flavours 
+  395  ls
+  396  git log
+  397  git checkout master 
+  398  git merge history 
+  399  ls
+  400  git log
+  401  git checkout history 
+  402  git log
+  403  git checkout milkshake-flavours 
+  404  git log
+  405  git checkout master 
+  406  git merge history 
+  407  git checkout history 
+  408  git merge master 
+  409  git log
+  410  git checkout master 
+  411  git log
+  412  git remote add origin https://github.com/Buhle0000/git-basic-exercises.git
+  413  git branch -M master
+  414  git push -u origin master
+  415  git branch
+  416  git branch -M milkshake-flavours
+  417  git push -u origin milkshake-flavours 
+  418  git branch -M history 
+  419  git push -u history.txt
+  420  git push -u history
+  421  git branch
+  422  git branch -M history 
+  423  git push -u origin history 
+  424  pwd
+  425  cd ../
+  426  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  427  cd a-repo-to-clone/
+  428  git branch
+  429  git log
+  430  git branch -a
+  431  git checkout -b project/git-basic-exercises
+  432  git remote -v
+  433  git log
+  434  cd ..cd
+  435  cd ..
+  436  cd git-basic-exercises/
+  437  cd
+  438  ls
+  439  cd git-basic-exercises/
+  440  git log
+  441  cd
+  442  mkdir this-will-be-another-repo
+  443  cd this-will-be-another-repo/
+  444  git init
+  445  touch README.md
+  446  git add README.md 
+  447  git commit -m "Multiple Repo Readme"
+  448  cd 
+  449  cd git-basic-exercises/
+  450  git log
+  451  ls
+  452  touch ignore-me.db
+  453  git status
+  454  nano .gitignore
+  455  git status
+  456  ls
+  457  mkdir large-directory-that-should-be-local-only
+  458  cd large-directory-that-should-be-local-only/
+  459  touch readme.md
+  460  nano readme.md 
+  461  cd ..
+  462  git status
+  463  nano .gitignore
+  464  git status
+  465  git add .gitignore 
+  466  git commit -m "added .gitignore"
+  467  git push
+  468  python
+  469  cd
+  470  run python3
+  471  python3
+  472  python --version
+  473  python3 --version
+  474  apt-get update -y
+  475  apt-get update -y python3-venv
+  476  apt-get install -y python3-venv
+  477  yes
+  478  sudo apt update
+  479  sudo apt install software-properties-common
+  480  sudo add-apt-repository ppa:deadsnakes/ppa
+  481  sudo apt install python3.8
+  482  python --version
+  483  phthon3 --version
+  484  python3 version
+  485  python3 --version
+  486  python3
+  487  ls
+  488  cd Python_files/
+  489  ls
+  490  cd task03.py
+  491  vim task03.py 
+  492  vim task05.py 
+  493  vim task03.py 
+  494  vim task09.py 
+  495  python3 task09.py 
+  496  vim task09.py 
+  497  python3 task09.py 
+  498  vim task09.py 
+  499  python3 task09.py 
+  500  vim task09.py 
+  501  python3 task09.py 
+  502  vim task09.py 
+  503  vim task07.py 
+  504  vim task06.py 
+  505  python3 task06.py 
+  506  vim task06.py 
+  507  python3 task06.py 
+  508  ls
+  509  vim task05.py 
+  510  python3 task05.py 
+  511  vim task05.py 
+  512  python3 task05.py 
+  513  vim task010.py 
+  514  vim task09.py 
+  515  python3 task09.py 
+  516  vim task09.py 
+  517  python3 task09.py 
+  518  vim task09.py 
+  519  python3 task09.py 
+  520  vim task09.py 
+  521  python3 task09.py 
+  522  vim task010.py 
+  523  python3 task010.py 
+  524  vim task010.py 
+  525  git status
+  526  git add -A
+  527  git commit -m "Making some changes"
+  528  git push
+  529  vim task011.py
+  530  python3 task011.py 
+  531  vim task011.py 
+  532  python3 task011.py 
+  533  rm task011.py 
+  534  ls
+  535  cd level04
+  536  cd level03
+  537  ls
+  538  vim brainfuck.c 
+  539  cd
+  540  ls
+  541  cd Level04
+  542  ls
+  543  cd
+  544  ls
+  545  cd flood_fill.c
+  546  cd Level03
+  547  help
+  548  pwd
+  549  ls
+  550  vim level03
+  551  git clone https://github.com/x3rz/blackeye
+  552  git clone https://github.com/thelinuxchoice/blackeye
+  553  cd blackeye
+  554  bash blackeye.sh
+  555  git install php
+  556  cd
+  557  sudo apt install software-properties-common
+  558  sudo add-apt-repository ppa:ondrej/php
+  559  sudo apt install php7.3 php7.3-common php7.3-opcache php7.3-cli php7.3-gd php7.3-curl php7.3-mysql
+  560  php -v
+  561  cd blackeye/
+  562  bash blackeye.sh 
+  563  sudo apt-get install unzip
+  564  unzip archive.zip
+  565  ls
+  566  bash blackeye.sh 
+  567  ls
+  568  ccd
+  569  cd
+  570  exit
+  571  cd blackeye
+  572  ls
+  573  sudo ./blackeye
+  574  pip install pipenv
+  575  sudo apt install python-pip
+  576  pip install pipenv
+  577  pipenv --python 3.9
+  578  python 3.9
+  579  pipenv install
+  580  pipenv --python 3.9
+  581  git clone https://github.com/maxrooted/instashell.git
+  582  cd instashell
+  583  ls
+  584  instashell.sh
+  585  777 instashell.sh 
+  586  +x instashell.sh 
+  587  chmod 777 instashell.sh 
+  588  chmod +x install.sh 
+  589  ls
+  590  chmod 777 passwords.lst 
+  591  cat passwords.lst 
+  592  service tor start
+  593  service tor status
+  594  git clone https://github.com/Git-Ankitraj/blackeye-im.git
+  595  cd blackeye-im
+  596  chmod +x ./setup.sh
+  597  ./setup.sh
+  598  ./blackeye.sh
+  599  system overflow, primordial target window closed. Ejected cloning into account
+  600  Phase 2 started:.....
+  601  Computing...
+  602  git clone git://github.com/htr-tech/zphisher.git
+  603  cd
+  604  cd-ls
+  605  cd zphisher.sh
+  606  cd zphisher
+  607  bash zphisher.sh 
+  608  bash zphisher
+  609  zphisher.sh
+  610  bash zphisher.sh
+  611  bash zphisher.sh 
+  612  cd zphisher/
+  613  ls
+  614  bash zphisher.sh 
+  615  cd zphisher/
+  616  bash zphisher.sh 
+  617  docker pull htrtech/zphisher
+  618  bash zphisher.sh 
+  619  cd zphisher/
+  620  bash zphisher.sh 
+  621  cd zphisher/
+  622  bash zphisher.sh 
+  623  ls
+  624  cd zphisher/
+  625  ls
+  626  cd zphisher.sh
+  627  /.n zphisher.sh 
+  628  cd
+  629  ls
+  630  cd zphisher/
+  631  ls
+  632  bash zphisher.sh 
+  633  ls
+  634  cd
+  635  ls
+  636  cd zphisher/
+  637  bash zphisher.sh 
+  638  ls
+  639  cd LEVEL-0-CODING-CHALLENGES/
+  640  ls
+  641  vim task03.py 
+  642  python3 task03.py 
+  643  vim task03.py 
+  644  python3 task03.py 
+  645  python
+  646  chmod +x task03.py 
+  647  vim task03
+  648  vim task03.py
+  649  python3 task03.py
+  650  rm task03
+  651  vim task03.py 
+  652  python3 task03.py 
+  653  Buhle
+  654  python task03.py 
+  655  vim task03.py 
+  656  python task03.py hello(Buhle)
+  657  python task03.py 
+  658  vim task03.py 
+  659  python task03.py 
+  660  vim task03.py 
+  661  python task03.py 
+  662  vim task03.py 
+  663  python task03.py 
+  664  python task03.py hello(Buhle)
+  665  vim task03.py 
+  666  python task03.py 
+  667  vim task03.py 
+  668  python task03.py 
+  669  python3 task03.py 
+  670  vim task03.py 
+  671  vim task04.py 
+  672  python3 task04.py 
+  673  vim task04.py 
+  674  python3 task04.py 
+  675  vim task04.py 
+  676  python3 task04.py 
+  677  vim task04.py 
+  678  vim task05.py 
+  679  vim task04.py 
+  680  vim task03.py 
+  681  vim task04.py 
+  682  vim task02.py 
+  683  vim task05.py 
+  684  python3 task05.py 
+  685  vim task05.py 
+  686  vim task06.py 
+  687  python3 task06.py 
+  688  vim task06.py 
+  689  python3 task06.py 
+  690  vim task06.py 
+  691  ls
+  692  cd LEVEL-0-CODING-CHALLENGES/
+  693  ls
+  694  vim task06.py 
+  695  python3 task06.py 
+  696  vim task06.py 
+  697  vim task07.py 
+  698  vim task08
+  699  ls
+  700  vim task09
+  701  vim task08.py 
+  702  python3 task08.py 
+  703  vim task08.py 
+  704  vim task09.py
+  705  python3 task09.py 
+  706  vim task09.py
+  707  python3 task09.py 
+  708  rm task09
+  709  ls
+  710  vim task010.py 
+  711  python3 task010.py 
+  712  vim task010.py 
+  713  python3 task010.py 
+  714  vim task010.py 
+  715  python3 task010.py 
+  716  vim task010.py 
+  717  python3 task010.py 
+  718  vim task010.py 
+  719  python3 task010.py 
+  720  vim task010.py 
+  721  python3 task010.py 
+  722  vim task010.py 
+  723  python3 task010.py 
+  724  git remote -v
+  725  git init
+  726  git add -A
+  727  git commit -m "implemented requested changes"
+  728  git remote add origin git@github.com:Buhle0000/LEVEL-0-CODING-CHALLENGES.git
+  729  git push -u -f origin master
+  730  git remote add origin https://github.com/Buhle0000/LEVEL0-CODING-CHALLENGE.git
+  731  git push
+  732  vim task010.py 
+  733  vim task09.py 
+  734  vim task03.py 
+  735  cd
+  736  ls
+  737  rmdir Git-Basic-Exercises/
+  738  cd Git-Basic-Exercises/
+  739  ls
+  740  cd LEVEL-0-CODING-CHALLENGES/
+  741  ls
+  742  rm -a
+  743  rm task01.py task02.py task03.py task04.py 
+  744  rm task05.py task06.py task07.py task08.py task09.py task010.py 
+  745  ls
+  746  cd ..
+  747  rmdir LEVEL-0-CODING-CHALLENGES/
+  748  rm -rf LEVEL-0-CODING-CHALLENGES/
+  749  ls
+  750  cd ..
+  751  rm -rf Git-Basic-Exercises/
+  752  ls
+  753  mkdir git-basic-exercises
+  754  cd git-basic-exercises/
+  755  git init
+  756  touch README.md
+  757  git log
+  758  git add README.md 
+  759  git status
+  760  git commit -m "initial commit"
+  761  git log
+  762  q
+  763  nano README.md 
+  764  cat README.md 
+  765  git status
+  766  git add README.md 
+  767  git commit -m "Second commit"
+  768  nano README.md 
+  769  git add README.md 
+  770  git commit -m "third commit"
+  771  git log
+  772  git branch
+  773  git checkout milkshake-flavors
+  774  git branch milkshake-flavours
+  775  git checkout milkshake-flavours 
+  776  git branch
+  777  nano milkshakes.md
+  778  git status
+  779  git add milkshakes.md 
+  780  git commit -m "added initial flavours"
+  781  git log
+  782  git checkout master 
+  783  git branch history
+  784  git checkout history 
+  785  git branch
+  786  git log
+  787  git checkout milkshake-flavours 
+  788  git log
+  789  git checkout history 
+  790  git log
+  791  history > history.txt
